@@ -3,7 +3,10 @@ from pathlib import Path
 
 
 st.markdown("<style> .stAppHeader {display:none;} ul {list-style-type: none; } </style>", unsafe_allow_html=True)
-def get_file_content_as_bytes(file_path):
+
+
+
+def get_file_content_as_bytes(file_path):''
     with open(file_path, "rb") as file:
         return file.read()
 
@@ -94,6 +97,3 @@ st.write("💻**Programmierung**")
 st.write("#")
 st.write("#")
 st.write("#")
-
-
-
