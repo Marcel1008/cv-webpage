@@ -1,7 +1,0 @@
-name=input("Wie heisst du")
-adres=input("Wo whonst du")
-print(f"Hallo{name}!")
-print("Wir haben deine adresse geändert.")
-print(f"Deine neue adresse ist:{adres}")
-print("wir wünschen dir alles gute!")
-print("LG")

@@ -1,3 +1,4 @@
+
 age = input("Wie alt bist du ?")
 
 if float(age) >= 18:
