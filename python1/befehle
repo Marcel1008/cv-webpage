@@ -1,0 +1,10 @@
+ cd python1
+
+  ls
+
+  @Marcel1008 ➜ /workspaces/cv-webpage (main) $ git add .
+@Marcel1008 ➜ /workspaces/cv-webpage (main) $ git commit -m"G"
+#2git push
+
+
+git push --force
